@@ -1,0 +1,54 @@
+body
+/* ICon Image */
+.img{
+	width:14%;
+}
+
+/* Nav Bar Button */
+#nav-button{
+	line-height: 3.5; width: 115px; color:white;
+}
+
+/* Slider */
+.mySlides{
+	width:100%; background-size: cover;
+}
+
+
+/* Sidbar */
+#w3-sidebars{height: 100%;
+
+width: 400px;
+
+background-color:
+#9e9e9e;
+}
+
+
+
+/* Side Bar Close Button */
+#close-button{
+	cursor: pointer;
+}
+
+
+
+
+/* Link */
+a{
+	text-decoration: none;
+}
+
+
+
+
+/* Footer */
+.footer-icon{
+	height: auto; width:10%;
+}
+
+
+
+
+
+
